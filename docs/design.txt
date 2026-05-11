@@ -1,0 +1,19 @@
+# Design
+
+## Colors
+- Dark: #1a1a1a
+- Gold: #d4af37
+- White: #ffffff
+- Gray: #757575
+
+## Typography
+- Font: Inter
+- Headings: Bold
+- Body: Regular
+
+## Components
+- Button (primary, secondary)
+- Card
+- Input
+- Select
+- Modal
