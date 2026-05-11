@@ -1,0 +1,42 @@
+# Wireframes
+
+## Login
+- Email input
+- Password input
+- Login button
+- Link do rejestracji
+
+## Register
+- Name input
+- Email input
+- Password input
+- Confirm password
+- Register button
+
+## Home Page
+- Hero section z CTA
+- Kategorie produktów (gitara, klawisze, perkusja)
+- Featured products
+
+## Product List
+- Filtr po kategorii
+- Sortowanie (cena, najpopularniejsze)
+- Pagination
+- Product cards
+
+## Product Details
+- Zdjęcie produktu
+- Nazwa, cena, opis
+- Add to cart button
+
+## Cart
+- Lista produktów
+- Możliwość usunięcia
+- Podsumowanie ceny
+- Checkout button
+
+## Checkout
+- Dane dostawy
+- Metoda płatności
+- Podsumowanie zamówienia
+- Place order button
